@@ -71,17 +71,17 @@ tasknest/
 
 ### Login Screen
 
-<img src="screenshots/Screen_1.png" alt="TaskNest Login Screen" width="300"/>
+<img src="screenshots/Screen1.jpeg" alt="TaskNest Login Screen" width="300"/>
 
 ### Welcome Screen
 
-<img src="screenshots/Screen_2.png" alt="TaskNest Welcome Screen" width="300"/>
+<img src="screenshots/Screen2.jpeg" alt="TaskNest Welcome Screen" width="300"/>
 
 ## Figma Design Reference
 
 Original UI designs created during Week 1–2:
 
-[https://www.figma.com/design/CtIB291nCvOe5Wlk1jXKIT/TaskNest---High-Fidelity-Wireframe?node-id=188-86&t=EcL4dwYdj8wzO9ml-1]   
+https://www.figma.com/design/CtIB291nCvOe5Wlk1jXKIT/TaskNest---High-Fidelity-Wireframe?node-id=188-86&t=EcL4dwYdj8wzO9ml-1   
 
 ## How to Run the Project
 
