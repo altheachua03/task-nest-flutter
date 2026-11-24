@@ -71,23 +71,17 @@ tasknest/
 
 ### Login Screen
 
-![TaskNest Login Screen](screenshots/Screen1.jpeg)
+<img src="screenshots/Screen_1.png" alt="TaskNest Login Screen" width="300"/>
 
 ### Welcome Screen
 
-![TaskNest Welcome Screen](screenshots/Screen_2.jpeg)
+<img src="screenshots/Screen_2.png" alt="TaskNest Welcome Screen" width="300"/>
 
 ## Figma Design Reference
 
 Original UI designs created during Week 1–2:
 
-[Insert your Figma project link here]
-
-## Widget Tree
-
-The Widget Tree PDF illustrates the parent-child relationships and the main Flutter widgets used in the Login Screen and Welcome Screen.
-
-**File:** `Widget_Tree.pdf`
+[https://www.figma.com/design/CtIB291nCvOe5Wlk1jXKIT/TaskNest---High-Fidelity-Wireframe?node-id=188-86&t=EcL4dwYdj8wzO9ml-1]   
 
 ## How to Run the Project
 
