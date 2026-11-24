@@ -71,11 +71,11 @@ tasknest/
 
 ### Login Screen
 
-<img src="screenshots/Screen1.jpeg" alt="TaskNest Login Screen" width="300"/>
+<img src="screenshots/Screen1.jpeg" alt="TaskNest Login Screen" width="250"/>
 
 ### Welcome Screen
 
-<img src="screenshots/Screen2.jpeg" alt="TaskNest Welcome Screen" width="300"/>
+<img src="screenshots/Screen2.jpeg" alt="TaskNest Welcome Screen" width="250"/>
 
 ## Figma Design Reference
 
